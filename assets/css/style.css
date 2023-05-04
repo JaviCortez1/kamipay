@@ -1404,6 +1404,13 @@ p {
 }
 
 
+@media (max-width: 767px) {
+        .iso {
+        max-width: 100px;
+        margin-bottom: 20px; } }
+
+
+
 /*===========================
          CARDS
 ===========================*/
@@ -1511,6 +1518,13 @@ p {
   font-weight: 300;
   padding-bottom: 20px;
 }
+
+
+
+@media (max-width: 767px) {
+        .bloquepasos {
+        margin-bottom: 0; } }
+
 
 
 @media (max-width: 767px) {
