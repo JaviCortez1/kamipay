@@ -1608,8 +1608,9 @@ p {
 
 @media (max-width: 767px) {
         .cardshacer {
-        padding-left: 35px;
-        padding-bottom: 1000px; } }
+        /*padding-left: 35px;*/
+        padding-bottom: 1000px;
+        margin: 0 auto; } }
 
 
 @media (max-width: 767px) {
