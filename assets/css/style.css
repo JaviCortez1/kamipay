@@ -1593,8 +1593,8 @@ p {
 
 
 .cardshacer li {
-  width: 15%;
-  height: 200px !important; 
+  width: 23%;
+  height: 250px !important; 
   text-align: center;
   border: solid 1px #083656; 
   padding: 20px; 
@@ -1612,7 +1612,8 @@ p {
 
 @media (max-width: 767px) {
         .cardshacer li {
-        width: 300px; } }        
+        width: 15%;
+        height: 200px !important; } }        
 
   
 .cardshacer li p {
