@@ -1944,6 +1944,11 @@ p {
 
 
 @media (max-width: 767px) {
+        .cardspix {
+        padding-right: 50px; } }        
+
+
+@media (max-width: 767px) {
         .cardspix li {
         width: 300px;
         margin-left: 60px; } }
