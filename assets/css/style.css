@@ -1604,6 +1604,8 @@ p {
   margin-top: 20px;
 }
 
+
+
 @media (max-width: 767px) {
         .cardshacer {
         padding-left: 35px;
@@ -1612,7 +1614,7 @@ p {
 
 @media (max-width: 767px) {
         .cardshacer li {
-        width: 15%;
+        width: 200px;
         height: 200px !important; } }        
 
   
