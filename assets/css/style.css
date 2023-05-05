@@ -1955,7 +1955,7 @@ p {
 @media (max-width: 767px) {
         .cardspix {
         padding-right: 150px;
-        margin-left: -20px; } }        
+        margin-left: 0px; } }        
 
 
 @media (max-width: 767px) {
