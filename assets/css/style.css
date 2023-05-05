@@ -1435,17 +1435,25 @@ p {
   margin-top: 20px;
 }
 
-@media (max-width: 767px) {
-        .cards li {
-        width: 300px;
-        margin-left: -10px !important; } }
-
   
 .cards li p {
   padding: 10px; 
   font-size: 16px; 
   font-weight: 400;
 }
+
+
+
+.cards ul li img {
+  height: 70px;
+}
+
+
+
+@media (max-width: 767px) {
+        .cards li {
+        width: 300px;
+        margin-left: -10px !important; } }
 
 
 
@@ -1616,6 +1624,25 @@ p {
 
 
 
+.cardshacer li p {
+  padding: 10px; 
+  font-size: 16px; 
+  font-weight: 400;
+}
+
+
+
+.cardshacer ul li img {
+  height: 70px;
+}
+
+
+.curve img {
+  margin-top: -200px;
+}
+
+
+
 
 
 @media (max-width: 767px) {
@@ -1631,17 +1658,6 @@ p {
         height: 200px !important; } }        
 
   
-.cardshacer li p {
-  padding: 10px; 
-  font-size: 16px; 
-  font-weight: 400;
-}
-
-
-.curve img {
-  margin-top: -200px;
-}
-
 
 @media (max-width: 767px) {
         .curve img {
@@ -1946,6 +1962,11 @@ p {
   line-height: 20px;
 }
 
+
+
+.cardspix ul li img {
+  height: 70px;
+}
 
 
 @media (max-width: 767px) {
