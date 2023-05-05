@@ -1891,13 +1891,14 @@ p {
         width: 300px;
         padding-right: 40px;
         margin-left: -20;
+        margin-right: 200px;
          } }        
 
 
 @media (max-width: 767px) {
         .box-contenedor ul {
         display: grid;
-        margin-right: 200px; } }
+         } }
 
 
 
