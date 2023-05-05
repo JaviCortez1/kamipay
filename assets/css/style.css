@@ -1606,9 +1606,20 @@ p {
 
 
 
+
+.tit-sec {
+  font-size: 25px;
+  color: #083656;
+  font-weight: 300;
+}
+
+
+
+
+
 @media (max-width: 767px) {
         .cardshacer {
-        padding-left: 50px;
+        margin-left: -40px !important;
         padding-bottom: 800px;
          } }
 
@@ -1637,11 +1648,8 @@ p {
 
 
 
-.tit-sec {
-  font-size: 25px;
-  color: #083656;
-  font-weight: 300;
-}
+ 
+
 
 
 /*===========================
