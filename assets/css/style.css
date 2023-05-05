@@ -1438,7 +1438,7 @@ p {
 @media (max-width: 767px) {
         .cards li {
         width: 300px;
-        margin-left: 200px !important; } }
+        margin-left: 20px !important; } }
 
   
 .cards li p {
