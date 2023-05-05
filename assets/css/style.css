@@ -1619,7 +1619,7 @@ p {
 
 @media (max-width: 767px) {
         .cardshacer {
-        margin-left: -40px !important;
+        margin-left: 20px !important;
         padding-bottom: 800px;
          } }
 
