@@ -1896,7 +1896,8 @@ p {
 
 @media (max-width: 767px) {
         .box-contenedor ul {
-        display: grid; } }
+        display: grid;
+        margin-right: 20px; } }
 
 
 
