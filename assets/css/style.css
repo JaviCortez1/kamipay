@@ -1916,11 +1916,11 @@ p {
 
 
 .cardspix {
-  width: 80%; 
+  width: 100%; 
   margin: 0 auto; 
   padding: 20px; 
   margin-bottom: 15%;
-  margin-right: 200px; 
+  padding-left: 4%; 
 }
 
 
@@ -1955,12 +1955,12 @@ p {
 @media (max-width: 767px) {
         .cardspix {
         padding-right: 150px;
-        margin-left: -30px; } }        
+        margin-left: -300px; } }        
 
 
 @media (max-width: 767px) {
         .cardspix li {
-        width: 300px;
+        width: 250px;
         margin-left: 60px; } }
 
   
