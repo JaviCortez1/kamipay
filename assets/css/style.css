@@ -1404,10 +1404,15 @@ p {
 }
 
 
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
         .iso {
         max-width: 100px;
-        margin-bottom: 20px; } }
+        margin-bottom: 20px; } }*/
+
+
+@media (max-width: 767px) {
+        .iso {
+        display: none; } }        
 
 
 
