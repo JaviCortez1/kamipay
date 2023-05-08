@@ -2144,7 +2144,7 @@ p {
     height: 60px;
     border: 2px solid #a4a4a4;
     border-radius: 16px;
-    padding-left: 44px;
+    padding-left: 15px;
     padding-right: 12px;
     position: relative;
     font-size: 16px;
@@ -2173,7 +2173,8 @@ p {
     left: 13px;
     font-size: 20px;
     z-index: 9;
-    color: #6c6c6c; }
+    color: #6c6c6c;
+    padding-top: 5px; }
 
 
 
