@@ -2141,9 +2141,9 @@ p {
   position: relative; }
   .form-input .input-items input, .form-input .input-items textarea {
     width: 100%;
-    height: 44px;
+    height: 60px;
     border: 2px solid #a4a4a4;
-    border-radius: 8px;
+    border-radius: 16px;
     padding-left: 44px;
     padding-right: 12px;
     position: relative;
