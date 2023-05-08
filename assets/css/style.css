@@ -2041,8 +2041,8 @@ p {
 
 
 @media (max-width: 767px) {
-        .tether-content ul {
-        margin-bottom: 200px; } }        
+        .tether-content ul li {
+        padding-bottom: 200px; } }        
 
 
 
