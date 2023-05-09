@@ -1432,7 +1432,8 @@ p {
 
 
 .cards li {
-  width: 23%; 
+  width: 23%;
+  height: 180px; 
   text-align: center; 
   box-shadow: 5px 5px 21px #d9d9d9; 
   padding: 20px; 
