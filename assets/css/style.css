@@ -436,6 +436,8 @@ p {
   transition: all 0.4s ease-out 0s;
   position: relative;
   text-transform: uppercase; }
+
+
   @media (max-width: 767px) {
     .main-btn {
       font-size: 14px;
@@ -2179,6 +2181,19 @@ p {
     color: #6c6c6c;
     padding-top: 5px; }
 
+
+
+  .sinform {
+    text-align: center; 
+    margin: 0 auto;
+  }
+
+  .sinform ul li a {
+    font-size: 25px; 
+    font-weight: 600; 
+    text-decoration: none; 
+    color: #083656;
+  }  
 
 
 /*===========================
