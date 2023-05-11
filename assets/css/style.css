@@ -117,7 +117,8 @@ p {
   font-size: 44px;
   font-weight: 300;
   color: #083656;
-  line-height: 55px; }
+  line-height: 55px;
+  margin-top: -60px; }
   @media (max-width: 767px) {
     .section-title .title {
       font-size: 30px;
@@ -1690,7 +1691,10 @@ p {
     font-size: 45px;
     font-weight: 300;
     line-height: 55px;
-    color: #083656; }
+    color: #083656;
+    margin-top: -60px;
+
+  }
     @media (max-width: 767px) {
       .comofunciona-area .section-title .title {
         font-size: 22px;
@@ -2005,7 +2009,7 @@ p {
 ===========================*/
 
 .tether-area {
-  padding-top: 50px;
+  margin-top: -500px;
   padding-bottom: 100px; 
   background-image: url("../../assets/images/tether.png"); 
   margin: 0; 
@@ -2014,6 +2018,7 @@ p {
 
 .tether-content {
   padding-top: 120px;
+  padding-left: 15%;
 }
 
 .tether-tit {
